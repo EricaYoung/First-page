@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sākums</title>
+<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+
+<body>
+	<div class = "logo">
+		<img src = "http://www.rvt.lv/images/banners/jg.png" />
+	</div>
+	<div class = "menu">
+		<ul class = "izvelne2">
+			<li><a href = "tests.html">Sākums</a></li>
+			<li><a href = "tests.html">Tests</a></li>
+			<li><a href = "kontakti.html">Kontakti</a></li>
+		</ul>
+	</div>
+	<div class = "mainContent">
+		<table border ="1">
+			<tr><td>Vārds</td><td><input type = "text" name="vards" /></td></tr>
+			<tr><td>Uzvārds</td><td>a</td></tr>
+
+		</table>	
+	</div>
+	<div class = "footer">d</div>
+	
+
+</body>
+
+</html>
